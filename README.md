@@ -25,7 +25,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 </div>
 
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
