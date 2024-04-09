@@ -5,7 +5,7 @@
 
 현재 정보보안, 웹 개발, 앱 개발, 게임 개발, 인공지능, 데이터 분석 등 다양한 분야를 공부하고 있습니다.
 
-### 🖥️ Tech Stack 🖥️
+# 🖥️ Tech Stack 🖥️
 
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 </div>
 
-### ELSE
+# ELSE
 
 <div>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
-### 🏆 Honors & Awards 🏆
+# 🏆 Honors & Awards 🏆
 
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young061023&layout=compact&theme=buefy" style="height:195px"/>
