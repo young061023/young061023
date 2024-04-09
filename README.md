@@ -23,5 +23,10 @@
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</div>
+
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young061023&layout=compact&theme=buefy" style="height:195px"/>
