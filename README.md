@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </div>
 
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
