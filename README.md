@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C sharp#-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Csharp#-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
 </div>
 
 <div align="center">
