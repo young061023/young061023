@@ -43,11 +43,10 @@
 </div>
 
 # 🏆 Honors & Awards 🏆
-부산광역시 미래교육원, 부산시 부산진구 – (2019년 3월 - 2021년 11월) `2021학년도 영재교육원 학업우수상(2위)`<br>
-KISTI 주최, UNIST  – (2022년 7월) `제6회 슈퍼컴퓨팅 청소년캠프 우수상(울산과학기술원 총장상)`<br>
-서울시, 광운대학교 주최, 광운대학교 – (2022년 11월) `유스해커톤 대상`<br>
-포스코DX, 지능정보산업협회 주최 – (2023년 8월) `2023 AI Youth Challenge 포스코 DX 사장상`<br>
-포스코DX, 지능정보산업협회 주최 – (2023년 8월) `2023 AI Youth Challenge 포스코 DX 사장상`<br>
+2019년 3월 - 2021년 11월 `2021학년도 영재교육원 학업우수상(2위) (부산광역시 미래교육원, 부산시 부산진구)`<br>
+2022년 7월 `제6회 슈퍼컴퓨팅 청소년캠프 우수상(울산과학기술원 총장상) (KISTI 주최, UNIST)`<br>
+2022년 11월 `유스해커톤 대상 (서울시, 광운대학교 주최, 광운대학교)`<br>
+2023년 8월 `2023 AI Youth Challenge 포스코 DX 사장상 (포스코DX, 지능정보산업협회 주최)`<br>=
 
 
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
