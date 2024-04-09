@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </div>
