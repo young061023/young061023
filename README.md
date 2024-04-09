@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 </div>
 
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
