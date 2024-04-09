@@ -43,6 +43,6 @@
 </div>
 
 # 🏆 Honors & Awards 🏆
-
+부산광역시 미래교육원, 부산시 부산진구 – (2019년 3월 - 2021년 11월) '2021학년도 영재교육원 학업우수상(2위)'<br>
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young061023&layout=compact&theme=buefy" style="height:195px"/>
