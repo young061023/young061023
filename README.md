@@ -49,5 +49,6 @@
   &nbsp;&nbsp;&nbsp;2023. 08 `2023 AI Youth Challenge 포스코 DX 사장상 (포스코DX, 지능정보산업협회 주최)`<br>
 
 <br>
+
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young061023&layout=compact&theme=buefy" style="height:195px"/>
