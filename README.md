@@ -2,7 +2,7 @@
 
 ### 🖥️ Tech Stack 🖥️
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" /></div> <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" /></div>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young061023&layout=compact&theme=buefy" style="height:195px"/>
