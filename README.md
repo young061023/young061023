@@ -1,6 +1,6 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Young&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-### 👀 Introduce
+# 👀 Introduce
 정보보안을 주력으로 하는 고등학생 입니다.
 
 현재 정보보안, 웹 개발, 앱 개발, 게임 개발, 인공지능, 데이터 분석 등 다양한 분야를 공부하고 있습니다.
@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
+
+### 🏆 Honors & Awards 🏆
 
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=young061023&show_icons=true&theme=buefy)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young061023&layout=compact&theme=buefy" style="height:195px"/>
